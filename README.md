@@ -1,10 +1,10 @@
-# rails-template:
+# rails-template
 > My rails template.
 
-## useage:
+## usage
 ```bash
 rails new my-app -m https://raw.githubusercontent.com/afeiship/rails-template/master/src/composer.rb
 ```
 
-## resources:
+## resources
 + http://www.jianshu.com/p/c3213ced7342
